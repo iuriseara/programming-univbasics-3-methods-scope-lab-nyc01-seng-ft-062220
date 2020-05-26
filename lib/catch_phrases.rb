@@ -15,7 +15,7 @@ def link
 end
 
 def all_phrases
-  phrase
-  status
-  quote
+  puts phrase
+  puts status
+  puts quote
 end
